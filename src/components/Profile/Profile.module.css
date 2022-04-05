@@ -1,0 +1,29 @@
+.profile-cover {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.profile-content {
+    display: flex;
+    padding: 35px 0;
+}
+
+.profile-photo {
+    height: 150px;
+    width: 150px;
+}
+
+.profile-information {
+    padding: 0 65px;
+}
+
+.profile-name {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    line-height: 1.5;
+}
+
